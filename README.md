@@ -1,0 +1,2 @@
+# Classification-for-Blood-Cells
+ Classifying different types of blood cells and counting different blood cell are important indicators important for many diagnostic tests. Our task will use Keras and Sklearn to automatically classify 4 main types of subtype blood cells in each blood sample image and do some counting among them. Finally, we will use confusion matrix to see the models’ performance and give some highlights on future work.
